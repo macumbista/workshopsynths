@@ -4,7 +4,7 @@ I have been teaching electronics workshops using simple 9V CMOS electronics for 
 
 1. MACUMBISTA SOUNDBOX
 
-SoundBoxes are small, primitive electro-acoustic instruments built from a wooden box, a speaker, a small LM386 audio amplifier and a contact microphone. It is designed to be built in a single day. They can create a variety of drone and reverb-type sounds through feedback between the speaker and microphone, or they can bring out the hidden sounds found within everyday objects. They also have small touchpoints which can be used to produce a variety of “circuit bending” sounds.
+SoundBoxes are small, primitive electro-acoustic instruments built from a wooden box, a speaker, a small LM386 audio amplifier and a contact microphone. They are designed to be built in a single day. They can create a variety of drone and reverb-type sounds through feedback between the speaker and microphone, or they can bring out the hidden sounds found within everyday objects. They also have small touchpoints which can be used to produce a variety of “circuit bending” sounds by touching with fingers or other semiconductive objects (pencil graphite traces for example), or by connecting with crocodile clips.
 
 2. MACUMBISTA BELGIAN TRIPEL SYNTH
 
