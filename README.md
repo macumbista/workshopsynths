@@ -10,11 +10,11 @@ SoundBoxes are small, primitive electro-acoustic instruments built from a wooden
 
 The Belgian Tripel is a small modular synthesizer project, which can be built over 5 days, housed in a cigar box, and run from either a 9V block battery or a 9V wall adapter (center positive). It features the following modules:
 
-	BT-1: three voltage controlled oscillators with a square, pulse, triangle, sawtooth and reverse-sawtooth waveforms, a three channel mixer, a pulse width modulation section, and a simple power distribution system with filtering and reverse-polarity protection
+	BT-1: three voltage controlled oscillators with a square, pulse, triangle, sawtooth and reverse-sawtooth waveforms, a three channel mixer, a pulse width modulation section, and a simple power distribution system with filtering and reverse-polarity protection.
 
-	BT-2: a non-linear, algorithmic sequencer based on Rob Hordijk's Rungler circuit)
+	BT-2: a non-linear, algorithmic sequencer/stepped wave generator, and a clocked digital noise generator, based on Rob Hordijk's Rungler circuit. This circuit requires two square wave inputs, one to the CLOCK input and one to the DATA input.
 
-	BT-3: a voltage controlled, resonant low pass filter using Tim Escobedo's single-supply MS-20 clone circuit
+	BT-3: a voltage controlled, resonant low pass filter using Tim Escobedo's single-supply MS-20 clone circuit.
 
 Stripboard layouts have been provided for all three modules. Power connectivity between the circuit boards is made by wires soldered to header pins, and front-panel, module-to-module connectivity is made with crocodile clips between M3 bolts sticking out of the cigar box.
 
