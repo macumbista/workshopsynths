@@ -20,6 +20,6 @@ BT-2: a non-linear, algorithmic sequencer/stepped wave generator, and a clocked 
 
 Stripboard layouts have been provided for all three modules. Power connectivity between the circuit boards is made by wires soldered to header pins, and front-panel, module-to-module connectivity is made with crocodile clips between M3 bolts sticking out of the cigar box.
 
-The system is designed to be Fast and Cheap, but not necessarily Good. By that I mean that the oscillators exploit every trick I know from cheap CMOS electronics, but do not track anything like 1V/Oct and tend to jump in pitch when changing waveforms. Also note that, without additional circuitry, it cannot safely accept control voltage from a EuroRack or similar system. An impressive range of sounds can be made with it nonetheless.  
+The system is designed to be Fast and Cheap, but not necessarily Good. By that I mean that the oscillators exploit every trick I know from cheap CMOS electronics, but do not track anything like 1V/Oct and tend to jump in pitch when changing waveforms. Also note that, without additional circuitry, it cannot safely accept bi-polar control voltage from a EuroRack or similar system. An impressive range of sounds can be made with it nonetheless.  
 
 The Belgian Tripel was developed during workshops at the University of the Arts Helsinki Theater Academy (Light and Sound Department) and the RITCS | School of Arts Brussels (Radio Department) in Fall/Winter of 2017. It is inspired by the work of Rob Hordijk, Elliot Williams, Tim Escobedo, and the monks of Westmalle. 
