@@ -12,7 +12,7 @@ The Belgian Tripel is a small modular synthesizer project, which can be built ov
 
 BT-1: three voltage controlled oscillators with a square, pulse, triangle, sawtooth and reverse-sawtooth waveforms, a three channel mixer, a pulse width modulation section, and a simple power distribution system with filtering and reverse-polarity protection.
 
-BT-2: a non-linear, algorithmic sequencer/stepped wave generator, and a clocked digital noise generator, based on Rob Hordijk's Rungler circuit. This circuit requires two square wave inputs, one to the CLOCK input and one to the DATA input.
+BT-2: a non-linear, algorithmic sequencer/stepped wave generator, and a clocked digital noise generator, based on a linear feedback shift register and a simple R/2R DAC. This circuit requires two square wave inputs, one to the CLOCK input and one to the DATA input.
 
 BT-3: a voltage controlled, resonant low pass filter using Tim Escobedo's single-supply MS-20 clone circuit.
 
